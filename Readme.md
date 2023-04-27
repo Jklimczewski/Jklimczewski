@@ -5,4 +5,4 @@ Currently studying Computer Sciene at the [University of Gdańsk](https://ug.edu
 ### More content coming soon... (working atm on some exciting projects at my Uni :smirk:)
 
 ### 📫 Contact
-[E-mail](mailto:kukli1598@gmail.pl) | [GitLab](https://gitlab.com/J_Klimczewski) <- More here - using mainly at my studies
+[E-mail](mailto:kukli1598@gmail.pl)
