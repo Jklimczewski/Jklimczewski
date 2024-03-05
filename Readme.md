@@ -1,8 +1,19 @@
-## Heey, I'm Kuba 👋
+## Hi there! ✋
 
-Currently studying Computer Sciene at the [University of Gdańsk](https://ug.edu.pl/). Ex-Athlete, still loving it in my free time. :snowboarder:
+### :mens: About me
+- 🎓 Computer Science student at [University of Gdańsk](https://ug.edu.pl/)
+- 💻 Aspiring Full-stack developer 
+- :snowboarder: Ex-Athlete, still loving it in my free time
+- 🇵🇱 🇩🇪 🇺🇸 | Fluent in Polish, English and German
 
-### More content coming soon... (working atm on some exciting projects at my Uni :smirk:)
+### 🛠 Skills
+- 🖌️ HTML, CSS, JS
+- ⚛ Node.js, React.js, Vue.js
+- 💼 Java, Scala, Spring Boot
+- 🏦 MongoDB, PostgreSQL, Neo4J
+- 🐳 Docker, Kubernetes
+
+#### Currently working on my bachelor project 🔭🤫 `cooming soon..`
 
 ### 📫 Contact
-[E-mail](mailto:kukli1598@gmail.pl)
+[E-mail](mailto:kukli1598@gmail.pl) / [LinkedIn](https://www.linkedin.com/in/jakub-klimczewski-0b790b237/)
