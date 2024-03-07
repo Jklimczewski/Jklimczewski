@@ -13,7 +13,7 @@
 - 🏦 MongoDB, PostgreSQL, Neo4J
 - 🐳 Docker, Kubernetes
 
-#### Currently working on my bachelor project 🔭🤫 `cooming soon..`
+#### Currently working on my bachelor project 🔭🤫 `coming soon..`
 
 ### 📫 Contact
 [E-mail](mailto:kukli1598@gmail.pl) / [LinkedIn](https://www.linkedin.com/in/jakub-klimczewski-0b790b237/)
