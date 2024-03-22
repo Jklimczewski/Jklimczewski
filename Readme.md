@@ -4,7 +4,7 @@
 - 🎓 Computer Science student at [University of Gdańsk](https://ug.edu.pl/)
 - 💻 Aspiring Full-stack developer 
 - :snowboarder: Ex-Athlete, still loving it in my free time
-- 🇵🇱 🇩🇪 🇺🇸 | Fluent in Polish, English and German
+- 🇵🇱 🇬🇧 🇩🇪 | Fluent in Polish, English and German
 
 ### 🛠 Skills
 - 🖌️ HTML, CSS, JS
