@@ -7,10 +7,10 @@
 - 🇵🇱 🇬🇧 🇩🇪 | Fluent in Polish, English and German
 
 ### 🛠 Skills
-- 🖌️ HTML, CSS, JS
-- ⚛ Node.js, React.js, Vue.js
+- 🖌️ HTML, CSS, JS, TS
+- ⚛ Node.js, ReactJS, Vue.js
 - 💼 Java, Scala, Spring Boot
-- 🏦 MongoDB, PostgreSQL, Neo4J
+- 🏦 MongoDB, MySQL, Neo4J
 - 🐳 Docker, Kubernetes
 
 #### Currently working on my bachelor project 🔭🤫 `coming soon..`
