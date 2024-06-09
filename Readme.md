@@ -13,8 +13,8 @@
 - 🏦 MongoDB, MySQL, Neo4J
 - 🐳 Docker, Kubernetes
 
-#### Most proud of ⬇️
-[SpotIT App](https://github.com/spotit-app/SpotIT)
+### 👑 Most proud of
+- ➡️ [SpotIT App](https://github.com/spotit-app/SpotIT) ⬅️
 
 ### 📫 Contact
 [E-mail](mailto:kukli1598@gmail.pl) / [LinkedIn](https://www.linkedin.com/in/jakub-klimczewski-0b790b237/)
