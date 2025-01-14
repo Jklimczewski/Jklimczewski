@@ -2,7 +2,7 @@
 
 ### :mens: About me
 - 💻 Full-stack developer working in the automotive industry at Capgemini
--🎓 Computer Science student at [University of Gdańsk](https://ug.edu.pl/)
+- 🎓 Computer Science student at [University of Gdańsk](https://ug.edu.pl/)
 - :snowboarder: Ex-Athlete, still loving it in my free time
 - 🇵🇱 🇬🇧 🇩🇪 | Fluent in Polish, English and German
 
