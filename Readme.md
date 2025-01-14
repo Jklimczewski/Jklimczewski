@@ -1,8 +1,8 @@
 ## Hi there! ✋
 
 ### :mens: About me
-- 🎓 Computer Science student at [University of Gdańsk](https://ug.edu.pl/)
-- 💻 Aspiring Full-stack developer 
+- 💻 Full-stack developer working in the automotive industry at Capgemini
+-🎓 Computer Science student at [University of Gdańsk](https://ug.edu.pl/)
 - :snowboarder: Ex-Athlete, still loving it in my free time
 - 🇵🇱 🇬🇧 🇩🇪 | Fluent in Polish, English and German
 
@@ -10,7 +10,7 @@
 - 🖌️ HTML, CSS, JS, TS
 - ⚛ Node.js, ReactJS, Vue.js
 - 💼 Java, Scala, Spring Boot
-- 🏦 MongoDB, MySQL, Neo4J
+- 🏦 MongoDB, SQL, Neo4J
 - 🐳 Docker, Kubernetes
 
 ### 👑 Most proud of
